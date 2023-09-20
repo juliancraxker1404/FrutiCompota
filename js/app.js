@@ -6,7 +6,7 @@ function idioma(){
     if(id==true){
         location.href="http://127.0.0.1:5501/index.html";
     }else{
-        location.href="http://127.0.0.1:5501/principal/indexingles.html";
+        location.href="http://127.0.0.1:5501/indexingles.html";
     }
 }
 
