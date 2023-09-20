@@ -4,10 +4,9 @@ check.addEventListener('click',idioma);
 function idioma(){
     let id=check.checked;
     if(id==true){
-        location.href="http://127.0.0.1:5501/index.html";
+        location.href="https://juliancraxker1404.github.io/FrutiCompota/";
     }else{
-        location.href="http://127.0.0.1:5501/indexingles.html";
+        location.href="https://juliancraxker1404.github.io/FrutiCompota/indexingles.html";
     }
 }
-
 
